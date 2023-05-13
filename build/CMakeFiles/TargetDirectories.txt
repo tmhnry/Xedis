@@ -1,0 +1,3 @@
+/home/tmhnry/Xedis/build/CMakeFiles/avl_test.dir
+/home/tmhnry/Xedis/build/CMakeFiles/edit_cache.dir
+/home/tmhnry/Xedis/build/CMakeFiles/rebuild_cache.dir

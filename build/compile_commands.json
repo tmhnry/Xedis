@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/tmhnry/Xedis/build",
+  "command": "/usr/bin/c++  -I/home/tmhnry/Xedis/include -std=gnu++17 -o CMakeFiles/avl_test.dir/avl_test.cpp.o -c /home/tmhnry/Xedis/avl_test.cpp",
+  "file": "/home/tmhnry/Xedis/avl_test.cpp",
+  "output": "CMakeFiles/avl_test.dir/avl_test.cpp.o"
+},
+{
+  "directory": "/home/tmhnry/Xedis/build",
+  "command": "/usr/bin/c++  -I/home/tmhnry/Xedis/include -std=gnu++17 -o CMakeFiles/avl_test.dir/avl_tree.cpp.o -c /home/tmhnry/Xedis/avl_tree.cpp",
+  "file": "/home/tmhnry/Xedis/avl_tree.cpp",
+  "output": "CMakeFiles/avl_test.dir/avl_tree.cpp.o"
+}
+]
